@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GridDemo</string>
+    <string name="single_item">imageView</string>
+    <string-array name="countries">
+        <item>Switzerland</item>
+        <item>Iceland</item>
+    </string-array>
+</resources>

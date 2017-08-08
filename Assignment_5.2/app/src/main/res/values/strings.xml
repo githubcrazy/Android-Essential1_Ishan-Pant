@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ListBaseAdaptDemo</string>
+    <string-array name="titles">
+        <item>afghanistan</item>
+        <item>bhutan</item>
+        <item>brazil</item>
+        <item>canada</item>
+        <item>denmark</item>
+        <item>iceland</item>
+        <item>india</item>
+        <item>japan</item>
+        <item>mongolia</item>
+        <item>nigeria</item>
+        <item>russia</item>
+        <item>southkorea</item>
+        <item>spain</item>
+        <item>sweden</item>
+        <item>switzerland</item>
+        <item>syria</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Land Of Pathans</item>
+        <item>Buddhism Here</item>
+        <item>A country in SouthAmerica</item>
+        <item>Very Cool Place</item>
+        <item>Nice Place To Visit</item>
+        <item>Most Peacful Place In The World</item>
+        <item>Ancient Culture Of The World.The Land Of Great Kings</item>
+        <item>Land Of Shonguns And Samurais</item>
+        <item>Land Of Mongols. Land Of Great Mongol Conqueror Changez Khan</item>
+        <item>Country In Africa</item>
+        <item>Most Beautiful People In The World</item>
+        <item>Anti North-Korea</item>
+        <item>Good Country To Visit In Europe</item>
+        <item>Nice Place In Europe</item>
+        <item>Most Beautiful Place In The World</item>
+        <item>Dangerous Place</item>
+    </string-array>
+</resources>
